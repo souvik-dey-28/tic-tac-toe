@@ -2,6 +2,15 @@
 
 A simple React-based Tic Tac Toe game.
 
+if ypour react app version 18 change into version 19 
+```bash
+npm install --save-exact react@^19.0.0 react-dom@^19.0.0
+
+fastest way to delelete node module 
+```bash
+PowerShell.exe -Command {Remove-Item -Recurse -Force -ErrorAction SilentlyContinue .\node_modules}
+```
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
