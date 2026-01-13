@@ -7,7 +7,7 @@ if ypour react app version 18 change into version 19
 npm install --save-exact react@^19.0.0 react-dom@^19.0.0
 ```
 
-fastest way to delelete node module 
+fastest way to delelete node modules 
 ```bash
 PowerShell.exe -Command {Remove-Item -Recurse -Force -ErrorAction SilentlyContinue .\node_modules}
 ```
@@ -139,4 +139,5 @@ This uses `package-lock.json` for exact dependency versions.
 ## License
 
 This project is private and for educational purposes.
+
 
