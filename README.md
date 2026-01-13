@@ -5,6 +5,7 @@ A simple React-based Tic Tac Toe game.
 if ypour react app version 18 change into version 19 
 ```bash
 npm install --save-exact react@^19.0.0 react-dom@^19.0.0
+```
 
 fastest way to delelete node module 
 ```bash
@@ -138,3 +139,4 @@ This uses `package-lock.json` for exact dependency versions.
 ## License
 
 This project is private and for educational purposes.
+
