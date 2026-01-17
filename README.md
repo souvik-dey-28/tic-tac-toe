@@ -17,11 +17,11 @@ PowerShell.exe -Command {Remove-Item -Recurse -Force -ErrorAction SilentlyContin
 
 📌 Features
 
-✔ Two players (X and O) take turns
- ✔ Simple UI with grid
- ✔ Shows current player
- ✔ Detects wins & ties
- ✔ Easy to read for new learners
+✔ Two players (X and O) take turns <br>
+✔ Simple UI with grid <br>
+✔ Shows current player  <br>
+✔ Detects wins & ties  <br>
+✔ Easy to read for new learners  <br>
 
 📁 Project Structure
 ```bash
@@ -168,6 +168,7 @@ This uses `package-lock.json` for exact dependency versions.
 ## License
 
 This project is private and for educational purposes.
+
 
 
 
