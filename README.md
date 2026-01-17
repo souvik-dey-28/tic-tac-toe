@@ -11,6 +11,8 @@ fastest way to delelete node modules
 ```bash
 PowerShell.exe -Command {Remove-Item -Recurse -Force -ErrorAction SilentlyContinue .\node_modules}
 ```
+<!--(i like use ai it helps boring work faster i use ai here only for post here writing you can see)-->
+
 #🧩 Simple React Tic-Tac-Toe (Multiplayer)
 
 📌 Features
@@ -166,6 +168,7 @@ This uses `package-lock.json` for exact dependency versions.
 ## License
 
 This project is private and for educational purposes.
+
 
 
 
