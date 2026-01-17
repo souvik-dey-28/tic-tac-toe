@@ -11,6 +11,33 @@ fastest way to delelete node modules
 ```bash
 PowerShell.exe -Command {Remove-Item -Recurse -Force -ErrorAction SilentlyContinue .\node_modules}
 ```
+#🧩 Simple React Tic-Tac-Toe (Multiplayer)
+
+📌 Features
+
+✔ Two players (X and O) take turns
+ ✔ Simple UI with grid
+ ✔ Shows current player
+ ✔ Detects wins & ties
+ ✔ Easy to read for new learners
+
+📁 Project Structure
+```bash
+tic-tac-toe/
+├── public/              # Static files
+│   ├── index.html      # Main HTML file
+│   ├── manifest.json   # App metadata
+│   └── robots.txt      # SEO robots file
+├── src/                # Source code
+│   ├── App.js          # Main App component
+│   ├── App.css         # App styles
+│   ├── index.js        # Entry point
+│   ├── index.css       # Global styles
+│   └── reportWebVitals.js  # Performance metrics
+├── package.json        # Project dependencies
+├── package-lock.json   # Locked dependency versions
+└── node_modules/       # Installed packages (auto-generated)
+```
 
 ## Prerequisites
 
@@ -139,5 +166,6 @@ This uses `package-lock.json` for exact dependency versions.
 ## License
 
 This project is private and for educational purposes.
+
 
 
